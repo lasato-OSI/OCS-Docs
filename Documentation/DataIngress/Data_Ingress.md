@@ -12,4 +12,4 @@ in this and subsequent sections:
 - Messages are sent to a queue called a *Topic*. 
 - A *Subscription* receives messages from a Topic and writes them to the Sequential Data Store.
 
-Laureen is adding content to her fork.
+Tina is helping Laureen understand forking!
